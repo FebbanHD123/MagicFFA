@@ -1,0 +1,13 @@
+name: FFA
+version: 1.0
+main: de.febanhd.ffa.FFA
+author: FebanHD
+
+softdepend:
+  - Multiverse-Core
+
+commands:
+  setspawn:
+    permission: ffa.setspawn
+  setspawnregion:
+    permission: ffa.setspawnregion
